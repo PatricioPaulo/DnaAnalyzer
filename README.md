@@ -1,5 +1,5 @@
 # DNA Analyzer
-Test project for MeLi 
+Demo project for MeLi 
 
 - URLs
 
@@ -17,6 +17,4 @@ mvnw.cmd spring-boot:run
 
 - Data Base
 
- MySQL
- 
- MariaDB
+ MySQL /  MariaDB
