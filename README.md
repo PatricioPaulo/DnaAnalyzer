@@ -1,4 +1,4 @@
-# DNAAnalyzer
+# DNA Analyzer
 Test project for MeLi 
 
 - URLs
